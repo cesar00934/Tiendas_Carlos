@@ -1,3 +1,20 @@
+const defaultSiteUrl = "https://tiendas-carlos.vercel.app";
+
+function getSiteUrl() {
+  const configuredUrl = process.env.NEXT_PUBLIC_SITE_URL?.trim();
+
+  if (!configuredUrl) return defaultSiteUrl;
+
+  try {
+    const url = new URL(configuredUrl);
+    return url.protocol === "http:" || url.protocol === "https:"
+      ? configuredUrl
+      : defaultSiteUrl;
+  } catch {
+    return defaultSiteUrl;
+  }
+}
+
 export const siteConfig = {
   name: "Tiendas Carlos",
   tagline: "La tienda del hogar",
@@ -8,7 +25,7 @@ export const siteConfig = {
   phoneE164: "+51910599105",
   phoneHref: "tel:+51910599105",
   whatsappBase: "https://wa.me/51910599105",
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://tiendas-carlos.vercel.app",
+  url: getSiteUrl(),
   mapsUrl:
     "https://www.google.com/maps/search/?api=1&query=Tiendas%20Carlos%20Av.%20San%20Mart%C3%ADn%20744",
 } as const;
