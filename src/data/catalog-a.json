@@ -1,0 +1,619 @@
+[
+  {
+    "index": 1,
+    "sourceFile": "0.5l a  7sol; 1 l a 10 sol ;1.5 a 14sol.jpg",
+    "name": "Envase hermético rectangular",
+    "category": "Cocina",
+    "price": 7,
+    "variants": [
+      {
+        "label": "0.5 L",
+        "price": 7
+      },
+      {
+        "label": "1 L",
+        "price": 10
+      },
+      {
+        "label": "1.5 L",
+        "price": 14
+      }
+    ],
+    "description": "Envase plástico rectangular con cierre hermético, disponible en tres capacidades."
+  },
+  {
+    "index": 2,
+    "sourceFile": "1.5 soles el paquete.jpg",
+    "name": "Vasos descartables estampados",
+    "category": "Descartables",
+    "price": 1.5,
+    "description": "Vasos descartables de papel con estampado, vendidos por paquete."
+  },
+  {
+    "index": 3,
+    "sourceFile": "1.5.jpg",
+    "name": "Jarra medidora 800 cc",
+    "category": "Cocina",
+    "price": 1.5,
+    "description": "Jarra plástica con asa, pico vertedor y escala graduada hasta 800 cc."
+  },
+  {
+    "index": 4,
+    "sourceFile": "1.jpg",
+    "name": "Jabonera plástica con carita",
+    "category": "Baño",
+    "price": 1,
+    "description": "Jabonera plástica con diseño de carita y orificios de drenaje en la base."
+  },
+  {
+    "index": 5,
+    "sourceFile": "10.0.jpg",
+    "name": "Almohada de descanso",
+    "category": "Dormitorio",
+    "price": 10,
+    "variants": [
+      {
+        "label": "Azul"
+      }
+    ],
+    "description": "Almohada de descanso acolchada de espuma color azul."
+  },
+  {
+    "index": 6,
+    "sourceFile": "10.00.jpg",
+    "name": "Dulcera de vidrio con tapa",
+    "category": "Cocina",
+    "price": 10,
+    "description": "Dulcera transparente de vidrio labrado, con tapa y patas cortas."
+  },
+  {
+    "index": 7,
+    "sourceFile": "10.000.jpg",
+    "name": "Caja para pañuelos con diseño",
+    "category": "Organización",
+    "price": 10,
+    "description": "Caja color crema con ranura superior para extraer pañuelos y diseño de carita."
+  },
+  {
+    "index": 8,
+    "sourceFile": "10.0000.jpg",
+    "name": "Táper hermético rectangular 5 L",
+    "category": "Cocina",
+    "price": 10,
+    "variants": [
+      {
+        "label": "Tapa roja"
+      },
+      {
+        "label": "Tapa azul"
+      }
+    ],
+    "description": "Recipiente rectangular transparente de 5 L con tapa hermética."
+  },
+  {
+    "index": 9,
+    "sourceFile": "10.00000.jpg",
+    "name": "Caja conservadora N.° 3 de 1.1 L",
+    "category": "Cocina",
+    "price": 10,
+    "variants": [
+      {
+        "label": "Tapa verde"
+      },
+      {
+        "label": "Tapa azul"
+      },
+      {
+        "label": "Tapa blanca"
+      }
+    ],
+    "description": "Caja conservadora rectangular de 1.1 L."
+  },
+  {
+    "index": 10,
+    "sourceFile": "10.0000000.jpg",
+    "name": "Colador plástico redondo multiuso",
+    "category": "Cocina",
+    "price": 10,
+    "variants": [
+      {
+        "label": "Azul"
+      }
+    ],
+    "description": "Colador plástico redondo con perforaciones finas y dos asas laterales."
+  },
+  {
+    "index": 11,
+    "sourceFile": "10.00000000.jpg",
+    "name": "Canastilla rectangular plástica",
+    "category": "Organización",
+    "price": 10,
+    "variants": [
+      {
+        "label": "Naranja"
+      }
+    ],
+    "description": "Canastilla rectangular perforada de plástico."
+  },
+  {
+    "index": 12,
+    "sourceFile": "10.000000000.jpg",
+    "name": "Bandeja rectangular con tapa transparente",
+    "category": "Cocina",
+    "price": 10,
+    "description": "Bandeja rectangular con borde decorativo y cubierta transparente alta."
+  },
+  {
+    "index": 13,
+    "sourceFile": "10.5.jpg",
+    "name": "Táper hermético con válvula 2 L",
+    "category": "Cocina",
+    "price": 10.5,
+    "variants": [
+      {
+        "label": "Tapa celeste"
+      },
+      {
+        "label": "Tapa morada"
+      }
+    ],
+    "description": "Recipiente rectangular hermético de 2 L con válvula en la tapa."
+  },
+  {
+    "index": 15,
+    "sourceFile": "100.0.jpg",
+    "name": "Forros para silla de 8 piezas",
+    "category": "Muebles",
+    "price": 100,
+    "variants": [
+      {
+        "label": "Azul"
+      }
+    ],
+    "description": "Juego de ocho forros textiles para sillas de comedor."
+  },
+  {
+    "index": 16,
+    "sourceFile": "100.000.jpg",
+    "name": "Forros impermeables para silla de 8 piezas",
+    "category": "Muebles",
+    "price": 100,
+    "description": "Juego de ocho forros impermeables para sillas de comedor."
+  },
+  {
+    "index": 17,
+    "sourceFile": "100.0000.jpg",
+    "name": "Forros para 8 sillas",
+    "category": "Muebles",
+    "price": 100,
+    "description": "Juego textil Home Top Textile para cubrir ocho sillas de comedor."
+  },
+  {
+    "index": 18,
+    "sourceFile": "100.jpg",
+    "name": "Forros para silla de 8 piezas",
+    "category": "Muebles",
+    "price": 100,
+    "description": "Juego de ocho forros textiles para sillas de comedor."
+  },
+  {
+    "index": 19,
+    "sourceFile": "110.jpg",
+    "name": "Silla plástica tipo ratán",
+    "category": "Muebles",
+    "price": 110,
+    "variants": [
+      {
+        "label": "Gris oscuro"
+      }
+    ],
+    "description": "Silla alta de plástico con textura tejida tipo ratán."
+  },
+  {
+    "index": 20,
+    "sourceFile": "12.000.jpg",
+    "name": "Táper hermético multiuso 900 ml",
+    "category": "Cocina",
+    "price": 12,
+    "description": "Recipiente rectangular transparente de 900 ml con cierres laterales."
+  },
+  {
+    "index": 21,
+    "sourceFile": "13.jpg",
+    "name": "Táper Triware rectangular",
+    "category": "Organización",
+    "price": 13,
+    "description": "Caja rectangular transparente multiuso."
+  },
+  {
+    "index": 22,
+    "sourceFile": "14.jpg",
+    "name": "Jarra de vidrio con tapa",
+    "category": "Cocina",
+    "price": 14,
+    "variants": [
+      {
+        "label": "Tapa roja"
+      }
+    ],
+    "description": "Jarra transparente de vidrio con asa y tapa plástica roja."
+  },
+  {
+    "index": 23,
+    "sourceFile": "1450.jpg",
+    "name": "Cocina a gas con horno",
+    "category": "Electrodomésticos",
+    "price": 1450,
+    "variants": [
+      {
+        "label": "Gris oscuro"
+      }
+    ],
+    "description": "Cocina a gas con horno y tapa superior de vidrio."
+  },
+  {
+    "index": 24,
+    "sourceFile": "1460.jpg",
+    "name": "Lavadora automática de carga superior",
+    "category": "Electrodomésticos",
+    "price": 1460,
+    "variants": [
+      {
+        "label": "Gris oscuro"
+      }
+    ],
+    "description": "Lavadora automática de carga superior."
+  },
+  {
+    "index": 25,
+    "sourceFile": "15.jpg",
+    "name": "Canastilla rectangular plástica",
+    "category": "Organización",
+    "price": 15,
+    "variants": [
+      {
+        "label": "Naranja"
+      },
+      {
+        "label": "Azul"
+      }
+    ],
+    "description": "Canastilla rectangular perforada, disponible en colores surtidos."
+  },
+  {
+    "index": 26,
+    "sourceFile": "160.0.jpg",
+    "name": "Cómoda plástica Happy de 5 cajones",
+    "category": "Muebles",
+    "price": 160,
+    "variants": [
+      {
+        "label": "Morado y turquesa"
+      }
+    ],
+    "description": "Cómoda plástica modelo Happy con cinco cajones."
+  },
+  {
+    "index": 27,
+    "sourceFile": "160.000.jpg",
+    "name": "Forro para mueble modular",
+    "category": "Muebles",
+    "price": 160,
+    "description": "Forro textil empacado para sofá o mueble modular."
+  },
+  {
+    "index": 28,
+    "sourceFile": "160.jpg",
+    "name": "Cómoda plástica Happy de 5 cajones",
+    "category": "Muebles",
+    "price": 160,
+    "variants": [
+      {
+        "label": "Gris y rosado"
+      }
+    ],
+    "description": "Cómoda plástica modelo Happy con cinco cajones."
+  },
+  {
+    "index": 29,
+    "sourceFile": "165.jpg",
+    "name": "Olla alta de acero inoxidable con tapa",
+    "category": "Cocina",
+    "price": 165,
+    "description": "Olla alta de acero inoxidable con asas laterales y tapa de vidrio."
+  },
+  {
+    "index": 30,
+    "sourceFile": "17.jpg",
+    "name": "Colcha Piel de Ángel",
+    "category": "Dormitorio",
+    "price": 17,
+    "variants": [
+      {
+        "label": "Colores surtidos"
+      }
+    ],
+    "description": "Colcha suave tipo Piel de Ángel, disponible en varios colores."
+  },
+  {
+    "index": 31,
+    "sourceFile": "170.jpg",
+    "name": "Silla plegable de madera y lona",
+    "category": "Muebles",
+    "price": 170,
+    "variants": [
+      {
+        "label": "Rayas rojas y blancas"
+      }
+    ],
+    "description": "Silla plegable con estructura de madera y asiento de lona a rayas."
+  },
+  {
+    "index": 32,
+    "sourceFile": "18.jpg",
+    "name": "Balde Latino 17 L",
+    "category": "Limpieza",
+    "price": 18,
+    "variants": [
+      {
+        "label": "Rojo"
+      }
+    ],
+    "description": "Balde plástico de 17 L con tapa y asa metálica."
+  },
+  {
+    "index": 33,
+    "sourceFile": "180.0.jpg",
+    "name": "Cómoda plástica Raymi de 6 cajones",
+    "category": "Muebles",
+    "price": 180,
+    "variants": [
+      {
+        "label": "Taupe y blanco"
+      }
+    ],
+    "description": "Cómoda plástica alta modelo Raymi con seis cajones."
+  },
+  {
+    "index": 34,
+    "sourceFile": "180.000.jpg",
+    "name": "Cómoda plástica Raymi de 6 cajones",
+    "category": "Muebles",
+    "price": 180,
+    "variants": [
+      {
+        "label": "Morado"
+      }
+    ],
+    "description": "Cómoda plástica alta modelo Raymi con seis cajones."
+  },
+  {
+    "index": 35,
+    "sourceFile": "180.0000.jpg",
+    "name": "Cómoda plástica Raymi de 6 cajones",
+    "category": "Muebles",
+    "price": 180,
+    "variants": [
+      {
+        "label": "Celeste y blanco"
+      }
+    ],
+    "description": "Cómoda plástica alta modelo Raymi con seis cajones."
+  },
+  {
+    "index": 36,
+    "sourceFile": "180.jpg",
+    "name": "Cómoda plástica Raymi de 6 cajones",
+    "category": "Muebles",
+    "price": 180,
+    "variants": [
+      {
+        "label": "Beige"
+      }
+    ],
+    "description": "Cómoda plástica alta modelo Raymi con seis cajones."
+  },
+  {
+    "index": 37,
+    "sourceFile": "2 soles matarrata.jpg",
+    "name": "Matarratas",
+    "category": "Limpieza",
+    "price": 2,
+    "description": "Producto para control de roedores presentado en sobre."
+  },
+  {
+    "index": 38,
+    "sourceFile": "2.000.jpg",
+    "name": "Jabonera plástica con tapa",
+    "category": "Baño",
+    "price": 2,
+    "variants": [
+      {
+        "label": "Colores surtidos"
+      }
+    ],
+    "description": "Estuche ovalado de plástico con tapa para guardar jabón."
+  },
+  {
+    "index": 39,
+    "sourceFile": "2.jpg",
+    "name": "Vaso plástico acanalado",
+    "category": "Cocina",
+    "price": 2,
+    "variants": [
+      {
+        "label": "Verde"
+      },
+      {
+        "label": "Naranja"
+      }
+    ],
+    "description": "Vaso plástico translúcido de superficie acanalada."
+  },
+  {
+    "index": 40,
+    "sourceFile": "20.00.jpg",
+    "name": "Almohada cervical de látex",
+    "category": "Dormitorio",
+    "price": 20,
+    "description": "Almohada ergonómica tipo Memory Pillow."
+  },
+  {
+    "index": 41,
+    "sourceFile": "20.jpg",
+    "name": "Toalla de baño",
+    "category": "Baño",
+    "price": 20,
+    "variants": [
+      {
+        "label": "Diseños surtidos"
+      }
+    ],
+    "description": "Toalla de baño de tejido grueso con diseños surtidos."
+  },
+  {
+    "index": 42,
+    "sourceFile": "21.5.jpg",
+    "name": "Silla plástica con brazos",
+    "category": "Muebles",
+    "price": 21.5,
+    "variants": [
+      {
+        "label": "Blanco"
+      }
+    ],
+    "description": "Silla plástica blanca con brazos y respaldo ranurado."
+  },
+  {
+    "index": 43,
+    "sourceFile": "23.0.jpg",
+    "name": "Licuadora personal con vaso portátil",
+    "category": "Electrodomésticos",
+    "price": 23,
+    "description": "Set Retro Juicer con base eléctrica, jarra y botella portátil."
+  },
+  {
+    "index": 44,
+    "sourceFile": "23.000.jpg",
+    "name": "Caja conservadora para freezer N.° 5 de 5 L",
+    "category": "Cocina",
+    "price": 23,
+    "variants": [
+      {
+        "label": "Tapa roja"
+      }
+    ],
+    "description": "Caja conservadora rectangular de 5 L para freezer."
+  },
+  {
+    "index": 45,
+    "sourceFile": "23.jpg",
+    "name": "Canasta plástica con asas",
+    "category": "Organización",
+    "price": 23,
+    "variants": [
+      {
+        "label": "Colores surtidos"
+      }
+    ],
+    "description": "Canasta rectangular de plástico con dos asas integradas."
+  },
+  {
+    "index": 46,
+    "sourceFile": "235.0000.jpg",
+    "name": "Licuadora Record 600 W",
+    "category": "Electrodomésticos",
+    "price": 235,
+    "description": "Licuadora Record de 600 W con vaso de vidrio y cuatro velocidades."
+  },
+  {
+    "index": 47,
+    "sourceFile": "235.jpg",
+    "name": "Juego de ollas antiadherentes",
+    "category": "Cocina",
+    "price": 235,
+    "description": "Conjunto de ollas y sartén profunda con tapas."
+  },
+  {
+    "index": 48,
+    "sourceFile": "248.jpg",
+    "name": "Cómoda infantil Princesas de 5 cajones",
+    "category": "Muebles",
+    "price": 248,
+    "variants": [
+      {
+        "label": "Rosado y morado"
+      }
+    ],
+    "description": "Cómoda plástica infantil decorada, con cinco cajones."
+  },
+  {
+    "index": 49,
+    "sourceFile": "25.00.jpg",
+    "name": "Balde plástico comercial 20 L",
+    "category": "Limpieza",
+    "price": 25,
+    "variants": [
+      {
+        "label": "Tapa roja"
+      },
+      {
+        "label": "Tapa azul"
+      }
+    ],
+    "description": "Balde plástico transparente de 20 L con tapa y asa metálica."
+  },
+  {
+    "index": 50,
+    "sourceFile": "25.000.jpg",
+    "name": "Caja conservadora para freezer 6.5 L",
+    "category": "Cocina",
+    "price": 25,
+    "variants": [
+      {
+        "label": "Tapa azul"
+      }
+    ],
+    "description": "Caja conservadora rectangular de 6.5 L para freezer."
+  },
+  {
+    "index": 51,
+    "sourceFile": "25.0000.jpg",
+    "name": "Balde Latino 25 L",
+    "category": "Limpieza",
+    "price": 25,
+    "variants": [
+      {
+        "label": "Tapa verde"
+      },
+      {
+        "label": "Tapa roja"
+      }
+    ],
+    "description": "Balde plástico de 25 L con tapa y asa metálica."
+  },
+  {
+    "index": 52,
+    "sourceFile": "25.jpg",
+    "name": "Portacomida térmico 1.25 L",
+    "category": "Cocina",
+    "price": 25,
+    "variants": [
+      {
+        "label": "Tapa azul"
+      },
+      {
+        "label": "Tapa verde"
+      }
+    ],
+    "description": "Portacomida térmico de 1.25 L."
+  },
+  {
+    "index": 53,
+    "sourceFile": "250.jpg",
+    "name": "Juego de ollas de acero inoxidable",
+    "category": "Cocina",
+    "price": 250,
+    "description": "Conjunto de cuatro ollas de acero inoxidable con tapas."
+  }
+]

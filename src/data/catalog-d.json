@@ -1,0 +1,983 @@
+[
+  {
+    "index": 159,
+    "name": "Cucharas medidoras",
+    "category": "Cocina",
+    "price": 1.5
+  },
+  {
+    "index": 160,
+    "name": "Set de vasos de vidrio",
+    "category": "Cocina",
+    "price": 10
+  },
+  {
+    "index": 161,
+    "name": "Copas de vidrio de colores",
+    "category": "Cocina",
+    "price": 10
+  },
+  {
+    "index": 162,
+    "name": "Bombonera de vidrio con tapa",
+    "category": "Cocina",
+    "price": 10
+  },
+  {
+    "index": 163,
+    "name": "Jarra Rey 4 L",
+    "category": "Cocina",
+    "price": 10
+  },
+  {
+    "index": 164,
+    "name": "Taza de cerámica con borde dorado",
+    "category": "Cocina",
+    "price": 10
+  },
+  {
+    "index": 165,
+    "name": "Taza de cerámica estampada",
+    "category": "Cocina",
+    "price": 10
+  },
+  {
+    "index": 166,
+    "name": "Recipiente redondo de vidrio con tapa",
+    "category": "Cocina",
+    "price": 10
+  },
+  {
+    "index": 167,
+    "name": "Balanza digital de cocina",
+    "category": "Cocina",
+    "price": 10
+  },
+  {
+    "index": 168,
+    "name": "Bombonera de vidrio labrado",
+    "category": "Cocina",
+    "price": 10
+  },
+  {
+    "index": 169,
+    "name": "Mantequillera de vidrio",
+    "category": "Cocina",
+    "price": 10
+  },
+  {
+    "index": 170,
+    "name": "Tabla de picar de bambú",
+    "category": "Cocina",
+    "price": 10
+  },
+  {
+    "index": 171,
+    "name": "Recipiente plástico alto",
+    "category": "Organización",
+    "price": 10
+  },
+  {
+    "index": 172,
+    "name": "Plato hondo con borde dorado",
+    "category": "Cocina",
+    "price": 10
+  },
+  {
+    "index": 173,
+    "name": "Afilador de cuchillos",
+    "category": "Cocina",
+    "price": 10
+  },
+  {
+    "index": 174,
+    "name": "Jarra Rey con tapa",
+    "category": "Cocina",
+    "price": 10
+  },
+  {
+    "index": 175,
+    "name": "Lámpara LED compacta",
+    "category": "Iluminación",
+    "price": 10
+  },
+  {
+    "index": 176,
+    "name": "Set de salseras de vidrio",
+    "category": "Cocina",
+    "price": 10
+  },
+  {
+    "index": 177,
+    "name": "Juego de vajilla negro",
+    "category": "Cocina",
+    "price": 100
+  },
+  {
+    "index": 178,
+    "name": "Balanza digital comercial",
+    "category": "Cocina",
+    "price": 108
+  },
+  {
+    "index": 179,
+    "name": "Juego de vajilla verde",
+    "category": "Cocina",
+    "price": 110
+  },
+  {
+    "index": 180,
+    "name": "Conservadora portátil",
+    "category": "Organización",
+    "price": 110
+  },
+  {
+    "index": 181,
+    "name": "Tacho de basura grande con tapa",
+    "category": "Limpieza",
+    "price": 113
+  },
+  {
+    "index": 182,
+    "name": "Balanza digital",
+    "category": "Cocina",
+    "price": 12
+  },
+  {
+    "index": 183,
+    "name": "Set de 3 táperes Rey",
+    "category": "Cocina",
+    "price": 12
+  },
+  {
+    "index": 184,
+    "name": "Set de 3 recipientes de vidrio con tapa",
+    "category": "Cocina",
+    "price": 12
+  },
+  {
+    "index": 185,
+    "name": "Fuente de servir con forma de hoja",
+    "category": "Cocina",
+    "price": 12
+  },
+  {
+    "index": 186,
+    "name": "Colador de acero para lavadero",
+    "category": "Cocina",
+    "price": 12
+  },
+  {
+    "index": 187,
+    "name": "Cafetera Record",
+    "category": "Electrodomésticos",
+    "price": 120
+  },
+  {
+    "index": 188,
+    "name": "Tacho industrial con ruedas",
+    "category": "Limpieza",
+    "price": 1209
+  },
+  {
+    "index": 189,
+    "name": "Plato llano blanco",
+    "category": "Cocina",
+    "price": 13,
+    "variants": [
+      {
+        "label": "Unidad",
+        "price": 13
+      },
+      {
+        "label": "Docena",
+        "price": 144
+      }
+    ]
+  },
+  {
+    "index": 190,
+    "name": "Mandolina ralladora",
+    "category": "Cocina",
+    "price": 13
+  },
+  {
+    "index": 191,
+    "name": "Recipiente rectangular de vidrio con tapa",
+    "category": "Cocina",
+    "price": 13
+  },
+  {
+    "index": 192,
+    "name": "Juego de vajilla negro",
+    "category": "Cocina",
+    "price": 130
+  },
+  {
+    "index": 193,
+    "name": "Exprimidor manual de cítricos",
+    "category": "Cocina",
+    "price": 130
+  },
+  {
+    "index": 194,
+    "name": "Selladora al vacío Morley",
+    "category": "Electrodomésticos",
+    "price": 132
+  },
+  {
+    "index": 195,
+    "name": "Licuadora",
+    "category": "Electrodomésticos",
+    "price": 139
+  },
+  {
+    "index": 196,
+    "name": "Recipiente para granos con tapa",
+    "category": "Organización",
+    "price": 14
+  },
+  {
+    "index": 197,
+    "name": "Platos negros",
+    "category": "Cocina",
+    "price": 140
+  },
+  {
+    "index": 198,
+    "name": "Estante de 4 niveles",
+    "category": "Organización",
+    "price": 145
+  },
+  {
+    "index": 199,
+    "name": "Juego de vajilla Royal",
+    "category": "Cocina",
+    "price": 145
+  },
+  {
+    "index": 200,
+    "name": "Carrito organizador de cocina",
+    "category": "Organización",
+    "price": 145
+  },
+  {
+    "index": 201,
+    "name": "Termo eléctrico de agua",
+    "category": "Electrodomésticos",
+    "price": 145
+  },
+  {
+    "index": 202,
+    "name": "Tacho de basura grande con tapa",
+    "category": "Limpieza",
+    "price": 149
+  },
+  {
+    "index": 203,
+    "name": "Quesera de vidrio con tapa",
+    "category": "Cocina",
+    "price": 15
+  },
+  {
+    "index": 204,
+    "name": "Frutera de vidrio con pedestal",
+    "category": "Cocina",
+    "price": 15
+  },
+  {
+    "index": 205,
+    "name": "Tabla de picar National",
+    "category": "Cocina",
+    "price": 15
+  },
+  {
+    "index": 206,
+    "name": "Tabla de picar de bambú",
+    "category": "Cocina",
+    "price": 15
+  },
+  {
+    "index": 207,
+    "name": "Set de 2 copas para postre",
+    "category": "Cocina",
+    "price": 15
+  },
+  {
+    "index": 208,
+    "name": "Tetera de vidrio con infusor",
+    "category": "Cocina",
+    "price": 16
+  },
+  {
+    "index": 209,
+    "name": "Silla infantil plegable",
+    "category": "Muebles",
+    "price": 17
+  },
+  {
+    "index": 210,
+    "name": "Bandeja de acero inoxidable",
+    "category": "Cocina",
+    "price": 17
+  },
+  {
+    "index": 211,
+    "name": "Estante metálico de cocina",
+    "category": "Organización",
+    "price": 170
+  },
+  {
+    "index": 212,
+    "name": "Termo clásico 5 L",
+    "category": "Cocina",
+    "price": 178
+  },
+  {
+    "index": 213,
+    "name": "Quesera de vidrio ámbar",
+    "category": "Cocina",
+    "price": 18
+  },
+  {
+    "index": 214,
+    "name": "Bombonera de vidrio con tapa",
+    "category": "Cocina",
+    "price": 18
+  },
+  {
+    "index": 215,
+    "name": "Cafetera de acero inoxidable",
+    "category": "Cocina",
+    "price": 18
+  },
+  {
+    "index": 216,
+    "name": "Quesera de vidrio con tapa",
+    "category": "Cocina",
+    "price": 18
+  },
+  {
+    "index": 217,
+    "name": "Cortador de verduras manual",
+    "category": "Cocina",
+    "price": 18
+  },
+  {
+    "index": 218,
+    "name": "Jarra de vidrio",
+    "category": "Cocina",
+    "price": 18
+  },
+  {
+    "index": 219,
+    "name": "Fuente Marinex Opaline",
+    "category": "Cocina",
+    "price": 19
+  },
+  {
+    "index": 220,
+    "name": "Recipiente plástico pequeño",
+    "category": "Cocina",
+    "price": 2
+  },
+  {
+    "index": 221,
+    "name": "Sartén grill",
+    "category": "Cocina",
+    "price": 20
+  },
+  {
+    "index": 222,
+    "name": "Papelera con tapa",
+    "category": "Limpieza",
+    "price": 20
+  },
+  {
+    "index": 223,
+    "name": "Cortina con aros marrón",
+    "category": "Decoración",
+    "price": 20
+  },
+  {
+    "index": 224,
+    "name": "Cortina con aros azul",
+    "category": "Decoración",
+    "price": 20
+  },
+  {
+    "index": 225,
+    "name": "Cortina de color entero",
+    "category": "Decoración",
+    "price": 20
+  },
+  {
+    "index": 226,
+    "name": "Fuente rectangular de vidrio con tapa",
+    "category": "Cocina",
+    "price": 20
+  },
+  {
+    "index": 227,
+    "name": "Quesera grande de vidrio",
+    "category": "Cocina",
+    "price": 20
+  },
+  {
+    "index": 228,
+    "name": "Set de vajilla Mickey de 2 piezas",
+    "category": "Cocina",
+    "price": 21
+  },
+  {
+    "index": 229,
+    "name": "Tetera bombeada de aluminio Record",
+    "category": "Cocina",
+    "price": 215
+  },
+  {
+    "index": 230,
+    "name": "Cortador de verduras manual",
+    "category": "Cocina",
+    "price": 22
+  },
+  {
+    "index": 231,
+    "name": "Lonchera térmica",
+    "category": "Cocina",
+    "price": 22
+  },
+  {
+    "index": 232,
+    "name": "Jarra de vidrio",
+    "category": "Cocina",
+    "price": 22
+  },
+  {
+    "index": 233,
+    "name": "Juego de sartenes",
+    "category": "Cocina",
+    "price": 220
+  },
+  {
+    "index": 234,
+    "name": "Tacho de acero con pedal",
+    "category": "Limpieza",
+    "price": 23
+  },
+  {
+    "index": 235,
+    "name": "Lonchera infantil",
+    "category": "Cocina",
+    "price": 23.5
+  },
+  {
+    "index": 236,
+    "name": "Cocina de mesa de 4 hornillas",
+    "category": "Electrodomésticos",
+    "price": 235
+  },
+  {
+    "index": 237,
+    "name": "Balde con tapa",
+    "category": "Limpieza",
+    "price": 25
+  },
+  {
+    "index": 238,
+    "name": "Set de utensilios con soporte",
+    "category": "Cocina",
+    "price": 25
+  },
+  {
+    "index": 239,
+    "name": "Mantequillera de cerámica",
+    "category": "Cocina",
+    "price": 25
+  },
+  {
+    "index": 240,
+    "name": "Set de bomboneras de vidrio Belato",
+    "category": "Cocina",
+    "price": 26
+  },
+  {
+    "index": 241,
+    "name": "Set de vasos altos estampados",
+    "category": "Cocina",
+    "price": 26
+  },
+  {
+    "index": 242,
+    "name": "Set de utensilios de cocina",
+    "category": "Cocina",
+    "price": 26
+  },
+  {
+    "index": 243,
+    "name": "Molino eléctrico de carne RAF",
+    "category": "Electrodomésticos",
+    "price": 265
+  },
+  {
+    "index": 244,
+    "name": "Quesera grande de vidrio",
+    "category": "Cocina",
+    "price": 28
+  },
+  {
+    "index": 245,
+    "name": "Tabla de picar plástica",
+    "category": "Cocina",
+    "price": 28
+  },
+  {
+    "index": 246,
+    "name": "Juego de ollas Focusa de 12 piezas",
+    "category": "Cocina",
+    "price": 280
+  },
+  {
+    "index": 247,
+    "name": "Tacho de acero con pedal",
+    "category": "Limpieza",
+    "price": 29
+  },
+  {
+    "index": 248,
+    "name": "Juego de ollas Ilko de 11 piezas",
+    "category": "Cocina",
+    "price": 290
+  },
+  {
+    "index": 249,
+    "name": "Olla industrial de aluminio",
+    "category": "Cocina",
+    "price": 295
+  },
+  {
+    "index": 250,
+    "name": "Olla industrial de aluminio",
+    "category": "Cocina",
+    "price": 295
+  },
+  {
+    "index": 251,
+    "name": "Set de tazas con platos",
+    "category": "Cocina",
+    "price": 30
+  },
+  {
+    "index": 252,
+    "name": "Papelera con pedal Basa",
+    "category": "Limpieza",
+    "price": 30
+  },
+  {
+    "index": 253,
+    "name": "Tacho plástico con tapa",
+    "category": "Limpieza",
+    "price": 30
+  },
+  {
+    "index": 254,
+    "name": "Juego de vajilla floral",
+    "category": "Cocina",
+    "price": 30
+  },
+  {
+    "index": 255,
+    "name": "Bandeja decorativa",
+    "category": "Decoración",
+    "price": 30
+  },
+  {
+    "index": 256,
+    "name": "Set de tazas y platos blancos",
+    "category": "Cocina",
+    "price": 30
+  },
+  {
+    "index": 257,
+    "name": "Juego de vajilla Rey Real",
+    "category": "Cocina",
+    "price": 30
+  },
+  {
+    "index": 258,
+    "name": "Quemador industrial",
+    "category": "Electrodomésticos",
+    "price": 310
+  },
+  {
+    "index": 259,
+    "name": "Set de licorera con vasos",
+    "category": "Cocina",
+    "price": 32
+  },
+  {
+    "index": 260,
+    "name": "Papelera con tapa",
+    "category": "Limpieza",
+    "price": 32
+  },
+  {
+    "index": 261,
+    "name": "Set de tazas con platos de colores",
+    "category": "Cocina",
+    "price": 33
+  },
+  {
+    "index": 262,
+    "name": "Olla industrial de aluminio",
+    "category": "Cocina",
+    "price": 330
+  },
+  {
+    "index": 263,
+    "name": "Olla industrial de aluminio",
+    "category": "Cocina",
+    "price": 330
+  },
+  {
+    "index": 264,
+    "name": "Juego de ollas Valeska de 8 piezas",
+    "category": "Cocina",
+    "price": 335
+  },
+  {
+    "index": 265,
+    "name": "Escalera de aluminio",
+    "category": "Organización",
+    "price": 340
+  },
+  {
+    "index": 266,
+    "name": "Tabla de picar",
+    "category": "Cocina",
+    "price": 35
+  },
+  {
+    "index": 267,
+    "name": "Copas de vino",
+    "category": "Cocina",
+    "price": 35
+  },
+  {
+    "index": 268,
+    "name": "Copas labradas",
+    "category": "Cocina",
+    "price": 35
+  },
+  {
+    "index": 269,
+    "name": "Cuadro decorativo",
+    "category": "Decoración",
+    "price": 35
+  },
+  {
+    "index": 270,
+    "name": "Olla arrocera eléctrica",
+    "category": "Electrodomésticos",
+    "price": 353
+  },
+  {
+    "index": 271,
+    "name": "Vasos de cerámica con soporte",
+    "category": "Cocina",
+    "price": 36
+  },
+  {
+    "index": 272,
+    "name": "Juego de ollas UCC Life de 6 piezas",
+    "category": "Cocina",
+    "price": 360
+  },
+  {
+    "index": 273,
+    "name": "Combo de electrodomésticos Imaco",
+    "category": "Electrodomésticos",
+    "price": 364
+  },
+  {
+    "index": 274,
+    "name": "Set de frascos para té, azúcar y café",
+    "category": "Cocina",
+    "price": 37
+  },
+  {
+    "index": 275,
+    "name": "Tacho para residuos especiales",
+    "category": "Limpieza",
+    "price": 38
+  },
+  {
+    "index": 276,
+    "name": "Papelera cuadrada",
+    "category": "Limpieza",
+    "price": 38
+  },
+  {
+    "index": 277,
+    "name": "Gabinete organizador grande",
+    "category": "Organización",
+    "price": 380
+  },
+  {
+    "index": 278,
+    "name": "Olla grande de acero inoxidable Líder",
+    "category": "Cocina",
+    "price": 380
+  },
+  {
+    "index": 279,
+    "name": "Juego de ollas Flamenco Focusa",
+    "category": "Cocina",
+    "price": 380
+  },
+  {
+    "index": 280,
+    "name": "Juego de ollas MGO de 11 piezas",
+    "category": "Cocina",
+    "price": 385
+  },
+  {
+    "index": 281,
+    "name": "Salsero de vidrio con tapa y cuchara",
+    "category": "Cocina",
+    "price": 39
+  },
+  {
+    "index": 282,
+    "name": "Set de especieros giratorio",
+    "category": "Cocina",
+    "price": 39
+  },
+  {
+    "index": 283,
+    "name": "Juego de ollas Mármol de 10 piezas",
+    "category": "Cocina",
+    "price": 390
+  },
+  {
+    "index": 284,
+    "name": "Juego de 4 ollas de acero inoxidable",
+    "category": "Cocina",
+    "price": 160
+  },
+  {
+    "index": 285,
+    "name": "Juego de 4 ollas de acero inoxidable",
+    "category": "Cocina",
+    "price": 250
+  },
+  {
+    "index": 286,
+    "name": "Botella dispensadora para salsas",
+    "category": "Cocina",
+    "price": 4
+  },
+  {
+    "index": 287,
+    "name": "Juego de jarra y vasos de vidrio",
+    "category": "Cocina",
+    "price": 40
+  },
+  {
+    "index": 288,
+    "name": "Set de tazas y platos",
+    "category": "Cocina",
+    "price": 40
+  },
+  {
+    "index": 289,
+    "name": "Tabla de picar grande roja",
+    "category": "Cocina",
+    "price": 42
+  },
+  {
+    "index": 290,
+    "name": "Juego de cuchillos con soporte",
+    "category": "Cocina",
+    "price": 42
+  },
+  {
+    "index": 291,
+    "name": "Caja organizadora alta",
+    "category": "Organización",
+    "price": 42
+  },
+  {
+    "index": 292,
+    "name": "Tabla de picar grande",
+    "category": "Cocina",
+    "price": 43
+  },
+  {
+    "index": 293,
+    "name": "Portacubiertos Rey",
+    "category": "Cocina",
+    "price": 43
+  },
+  {
+    "index": 294,
+    "name": "Juego de ollas UCC Life de 10 piezas",
+    "category": "Cocina",
+    "price": 430
+  },
+  {
+    "index": 295,
+    "name": "Juego de ollas Catalina",
+    "category": "Cocina",
+    "price": 430
+  },
+  {
+    "index": 296,
+    "name": "Juego de ollas Catalina",
+    "category": "Cocina",
+    "price": 435
+  },
+  {
+    "index": 297,
+    "name": "Juego de ollas Mármol de 10 piezas",
+    "category": "Cocina",
+    "price": 435
+  },
+  {
+    "index": 298,
+    "name": "Set de fuentes de cerámica",
+    "category": "Cocina",
+    "price": 45
+  },
+  {
+    "index": 299,
+    "name": "Zapatera y perchero multifuncional",
+    "category": "Organización",
+    "price": 45
+  },
+  {
+    "index": 300,
+    "name": "Set de sartén y utensilios",
+    "category": "Cocina",
+    "price": 45
+  },
+  {
+    "index": 301,
+    "name": "Juego de ollas Nisqa de cerámica",
+    "category": "Cocina",
+    "price": 450
+  },
+  {
+    "index": 302,
+    "name": "Fuente redonda de vidrio con tapa",
+    "category": "Cocina",
+    "price": 47
+  },
+  {
+    "index": 303,
+    "name": "Termo de acero inoxidable",
+    "category": "Cocina",
+    "price": 48
+  },
+  {
+    "index": 304,
+    "name": "Set de bar Formainox",
+    "category": "Cocina",
+    "price": 48
+  },
+  {
+    "index": 305,
+    "name": "Botella dispensadora para salsas",
+    "category": "Cocina",
+    "price": 4,
+    "variants": [
+      {
+        "label": "480 ml",
+        "price": 4
+      },
+      {
+        "label": "880 ml",
+        "price": 5
+      }
+    ]
+  },
+  {
+    "index": 306,
+    "name": "Juego de 2 ollas de acero Diana",
+    "category": "Cocina",
+    "price": 49
+  },
+  {
+    "index": 307,
+    "name": "Accesorio para el hogar",
+    "category": "Organización",
+    "price": 5
+  },
+  {
+    "index": 308,
+    "name": "Paquete de colgadores",
+    "category": "Organización",
+    "price": 5
+  },
+  {
+    "index": 309,
+    "name": "Papelera plástica",
+    "category": "Limpieza",
+    "price": 5
+  },
+  {
+    "index": 310,
+    "name": "Embudo plástico",
+    "category": "Cocina",
+    "price": 5
+  },
+  {
+    "index": 311,
+    "name": "Taza estampada",
+    "category": "Cocina",
+    "price": 5
+  },
+  {
+    "index": 312,
+    "name": "Taza Donno",
+    "category": "Cocina",
+    "price": 5
+  },
+  {
+    "index": 313,
+    "name": "Balanza digital comercial",
+    "category": "Cocina",
+    "price": 52
+  },
+  {
+    "index": 314,
+    "name": "Fuente de acero inoxidable",
+    "category": "Cocina",
+    "price": 52,
+    "description": "Fuente rectangular de acero inoxidable Record."
+  },
+  {
+    "index": 315,
+    "name": "Set de utensilios de cocina",
+    "category": "Cocina",
+    "price": 52
+  },
+  {
+    "index": 316,
+    "name": "Platos blancos",
+    "category": "Cocina",
+    "price": 55
+  },
+  {
+    "index": 317,
+    "name": "Copas de colores",
+    "category": "Cocina",
+    "price": 55
+  },
+  {
+    "index": 318,
+    "name": "Escurridor de vajilla Rey Gigante",
+    "category": "Cocina",
+    "price": 55
+  }
+]

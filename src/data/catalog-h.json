@@ -1,0 +1,416 @@
+[
+  {
+    "index": 525,
+    "sourceFile": "10 soles.jpg",
+    "name": "Caja conservadora Basa N.° 3 de 1.1 L",
+    "category": "Organización",
+    "price": 10,
+    "description": "Caja conservadora rectangular Basa N.° 3 de 1.1 litros con tapa."
+  },
+  {
+    "index": 526,
+    "sourceFile": "10 soless.jpg",
+    "name": "Foco LED Phelix 50 W",
+    "category": "Iluminación",
+    "price": 10,
+    "description": "Foco LED Phelix de 50 W."
+  },
+  {
+    "index": 527,
+    "sourceFile": "10.0000.jpg",
+    "name": "Cesta Regia con tapa Reyplast",
+    "category": "Organización",
+    "price": 10,
+    "description": "Cesta plástica Regia con tapa."
+  },
+  {
+    "index": 528,
+    "sourceFile": "10.jpg",
+    "name": "Botella salsera plástica",
+    "category": "Cocina",
+    "price": 10,
+    "description": "Botella plástica para servir salsas."
+  },
+  {
+    "index": 529,
+    "sourceFile": "10.soles.jpg",
+    "name": "Canasta plástica multiuso con asas",
+    "category": "Organización",
+    "price": 10,
+    "description": "Canasta plástica ventilada con asas."
+  },
+  {
+    "index": 530,
+    "sourceFile": "115.jpg",
+    "name": "Extractor de jugos Royal",
+    "category": "Electrodomésticos",
+    "price": 115,
+    "description": "Extractor eléctrico de jugos Royal."
+  },
+  {
+    "index": 531,
+    "sourceFile": "12 soles unid ,docena a 96 soles.jpg",
+    "name": "Plato hondo blanco",
+    "category": "Cocina",
+    "price": 12,
+    "description": "Plato hondo blanco de porcelana.",
+    "variants": [
+      {
+        "label": "Unidad",
+        "price": 12
+      },
+      {
+        "label": "Docena",
+        "price": 96
+      }
+    ]
+  },
+  {
+    "index": 532,
+    "sourceFile": "12.5.jpg",
+    "name": "Jarra Tropical Basa 3.5 L",
+    "category": "Cocina",
+    "price": 12.5,
+    "description": "Jarra plástica Tropical Basa de 3.5 litros."
+  },
+  {
+    "index": 533,
+    "sourceFile": "12.jpg",
+    "name": "Taza blanca de porcelana",
+    "category": "Cocina",
+    "price": 12,
+    "description": "Taza blanca de porcelana."
+  },
+  {
+    "index": 534,
+    "sourceFile": "13.jpg",
+    "name": "Azucarero de porcelana con tapa",
+    "category": "Cocina",
+    "price": 13,
+    "description": "Azucarero blanco de porcelana con tapa."
+  },
+  {
+    "index": 535,
+    "sourceFile": "142.jpg",
+    "name": "Licuadora RAF 1.25 L",
+    "category": "Electrodomésticos",
+    "price": 142,
+    "description": "Licuadora RAF con vaso de 1.25 litros."
+  },
+  {
+    "index": 536,
+    "sourceFile": "145.0.jpg",
+    "name": "Licuadora de 1200 W",
+    "category": "Electrodomésticos",
+    "price": 145,
+    "description": "Licuadora eléctrica con motor de 1200 W."
+  },
+  {
+    "index": 537,
+    "sourceFile": "145.jpg",
+    "name": "Licuadora Wubwa 1000 W",
+    "category": "Electrodomésticos",
+    "price": 145,
+    "description": "Licuadora Wubwa modelo JIN-1525 de 1000 W."
+  },
+  {
+    "index": 538,
+    "sourceFile": "15 soles unida ,docena a 13 unid.jpg",
+    "name": "Fuente dividida de porcelana",
+    "category": "Cocina",
+    "price": 15,
+    "description": "Fuente blanca de porcelana con divisiones.",
+    "variants": [
+      {
+        "label": "Unidad",
+        "price": 15
+      },
+      {
+        "label": "Por docena (c/u)",
+        "price": 13
+      }
+    ]
+  },
+  {
+    "index": 539,
+    "sourceFile": "15.0.jpg",
+    "name": "Botella salsera plástica grande",
+    "category": "Cocina",
+    "price": 15,
+    "description": "Botella plástica grande para servir salsas."
+  },
+  {
+    "index": 540,
+    "sourceFile": "15.jpg",
+    "name": "Portaútiles Margarito de 3 piezas",
+    "category": "Cocina",
+    "price": 15,
+    "description": "Portaútiles plástico Reyplast Margarito de tres piezas."
+  },
+  {
+    "index": 541,
+    "sourceFile": "17 unid ,docena a 190.jpg",
+    "name": "Fuente rectangular blanca",
+    "category": "Cocina",
+    "price": 17,
+    "description": "Fuente rectangular blanca de porcelana.",
+    "variants": [
+      {
+        "label": "Unidad",
+        "price": 17
+      },
+      {
+        "label": "Docena",
+        "price": 190
+      }
+    ]
+  },
+  {
+    "index": 542,
+    "sourceFile": "17.5.0.jpg",
+    "name": "Foco LED Phelix 60 W",
+    "category": "Iluminación",
+    "price": 17.5,
+    "description": "Foco LED Phelix de 60 W."
+  },
+  {
+    "index": 543,
+    "sourceFile": "190.jpg",
+    "name": "Licuadora Oster",
+    "category": "Electrodomésticos",
+    "price": 190,
+    "description": "Licuadora Oster con vaso de vidrio."
+  },
+  {
+    "index": 544,
+    "sourceFile": "20 soles unida.jpg",
+    "name": "Fuente triple de porcelana",
+    "category": "Cocina",
+    "price": 20,
+    "description": "Fuente blanca de porcelana con tres compartimentos."
+  },
+  {
+    "index": 545,
+    "sourceFile": "20 soles unidad por docena.jpg",
+    "name": "Plato redondo blanco",
+    "category": "Cocina",
+    "price": 20,
+    "description": "Plato redondo blanco de porcelana; precio por unidad."
+  },
+  {
+    "index": 546,
+    "sourceFile": "20 unidad.jpg",
+    "name": "Plato cuadrado blanco",
+    "category": "Cocina",
+    "price": 20,
+    "description": "Plato cuadrado blanco de porcelana; precio por unidad."
+  },
+  {
+    "index": 547,
+    "sourceFile": "20.jpg",
+    "name": "Tetera de porcelana blanca",
+    "category": "Cocina",
+    "price": 20,
+    "description": "Tetera blanca de porcelana con tapa."
+  },
+  {
+    "index": 548,
+    "sourceFile": "203.jpg",
+    "name": "Olla arrocera Thomas",
+    "category": "Electrodomésticos",
+    "price": 203,
+    "description": "Olla arrocera eléctrica Thomas."
+  },
+  {
+    "index": 549,
+    "sourceFile": "22.0.jpg",
+    "name": "Fuente rectangular alargada",
+    "category": "Cocina",
+    "price": 22,
+    "description": "Fuente rectangular alargada de porcelana blanca."
+  },
+  {
+    "index": 550,
+    "sourceFile": "220.jpg",
+    "name": "Cocina infrarroja RAF 3500 W",
+    "category": "Electrodomésticos",
+    "price": 220,
+    "description": "Cocina infrarroja RAF con placa de vitrocerámica."
+  },
+  {
+    "index": 551,
+    "sourceFile": "22uniddad.jpg",
+    "name": "Fuente rectangular con divisiones",
+    "category": "Cocina",
+    "price": 22,
+    "description": "Fuente rectangular blanca con divisiones; precio por unidad."
+  },
+  {
+    "index": 552,
+    "sourceFile": "25.jpg",
+    "name": "Rallador de cocina 5 en 1",
+    "category": "Cocina",
+    "price": 25,
+    "description": "Rallador y cortador de cocina cinco en uno."
+  },
+  {
+    "index": 553,
+    "sourceFile": "28.jpg",
+    "name": "Cesto para ropa ratán Prolimso 65 L",
+    "category": "Organización",
+    "price": 28,
+    "description": "Cesto para ropa grande Prolimso con acabado ratán y capacidad de 65 litros."
+  },
+  {
+    "index": 554,
+    "sourceFile": "285.jpg",
+    "name": "Olla arrocera multifuncional Record 4.2 L",
+    "category": "Electrodomésticos",
+    "price": 285,
+    "description": "Olla arrocera multifuncional Record de 4.2 litros."
+  },
+  {
+    "index": 555,
+    "sourceFile": "30.jpg",
+    "name": "Dispensador de papel",
+    "category": "Organización",
+    "price": 30,
+    "description": "Dispensador de papel para pared."
+  },
+  {
+    "index": 556,
+    "sourceFile": "320.jpg",
+    "name": "Licuadora Valeska X-Pro 3000",
+    "category": "Electrodomésticos",
+    "price": 320,
+    "description": "Licuadora Valeska X-Pro Max 3000."
+  },
+  {
+    "index": 557,
+    "sourceFile": "350.jpg",
+    "name": "Licuadora Morley X-Pro",
+    "category": "Electrodomésticos",
+    "price": 350,
+    "description": "Licuadora Morley X-Pro con motor de 2200 W."
+  },
+  {
+    "index": 558,
+    "sourceFile": "353.jpg",
+    "name": "Olla arrocera multiuso 8.2 L",
+    "category": "Electrodomésticos",
+    "price": 353,
+    "description": "Olla arrocera multiuso de 8.2 litros."
+  },
+  {
+    "index": 559,
+    "sourceFile": "37  unidad por docena.jpg",
+    "name": "Fuente ovalada blanca",
+    "category": "Cocina",
+    "price": 37,
+    "description": "Fuente ovalada blanca de porcelana; precio por unidad."
+  },
+  {
+    "index": 560,
+    "sourceFile": "37 soles unidad por docena.jpg",
+    "name": "Bowl blanco de porcelana",
+    "category": "Cocina",
+    "price": 37,
+    "description": "Bowl blanco de porcelana; precio por unidad."
+  },
+  {
+    "index": 561,
+    "sourceFile": "399.jpg",
+    "name": "Cocina de inducción doble National Pro",
+    "category": "Electrodomésticos",
+    "price": 399,
+    "description": "Cocina de inducción doble National Pro."
+  },
+  {
+    "index": 562,
+    "sourceFile": "42 unidad por docena.jpg",
+    "name": "Plato floral de porcelana",
+    "category": "Cocina",
+    "price": 42,
+    "description": "Plato de porcelana con diseño floral; precio por unidad."
+  },
+  {
+    "index": 563,
+    "sourceFile": "42.0.jpg",
+    "name": "Bacinilla infantil Reyplast Baby King",
+    "category": "Bebé",
+    "price": 42,
+    "description": "Bacinilla infantil plástica Reyplast Baby King."
+  },
+  {
+    "index": 564,
+    "sourceFile": "450.jpg",
+    "name": "Olla a presión Record 12-14 L",
+    "category": "Cocina",
+    "price": 450,
+    "description": "Olla a presión de aluminio Record de 12 a 14 litros."
+  },
+  {
+    "index": 565,
+    "sourceFile": "48.0.jpg",
+    "name": "Escurridor de platos Basa Cloe de 2 niveles",
+    "category": "Cocina",
+    "price": 48,
+    "description": "Escurridor de platos Basa modelo Cloe de dos niveles."
+  },
+  {
+    "index": 566,
+    "sourceFile": "5.0.jpg",
+    "name": "Suavizante Sunny 1 L",
+    "category": "Limpieza",
+    "price": 5,
+    "description": "Suavizante Sunny de un litro."
+  },
+  {
+    "index": 567,
+    "sourceFile": "5.jpg",
+    "name": "Lavavajilla en pasta Eficaz",
+    "category": "Limpieza",
+    "price": 5,
+    "description": "Lavavajilla en pasta Eficaz de 1200 g."
+  },
+  {
+    "index": 568,
+    "sourceFile": "55.jpg",
+    "name": "Banco infantil plegable",
+    "category": "Bebé",
+    "price": 55,
+    "description": "Banco plástico infantil plegable con diseño decorativo."
+  },
+  {
+    "index": 569,
+    "sourceFile": "60.jpg",
+    "name": "Licuadora VTM con vaso de vidrio",
+    "category": "Electrodomésticos",
+    "price": 60,
+    "description": "Licuadora VTM con vaso de vidrio."
+  },
+  {
+    "index": 570,
+    "sourceFile": "68 soles.jpg",
+    "name": "Tacho para residuos reciclables",
+    "category": "Limpieza",
+    "price": 68,
+    "description": "Tacho plástico para residuos reciclables."
+  },
+  {
+    "index": 571,
+    "sourceFile": "8.jpg",
+    "name": "Tetera de vidrio con infusor",
+    "category": "Cocina",
+    "price": 8,
+    "description": "Tetera de vidrio con infusor y asa."
+  },
+  {
+    "index": 572,
+    "sourceFile": "99.jpg",
+    "name": "Cocina eléctrica doble EMaster",
+    "category": "Electrodomésticos",
+    "price": 99,
+    "description": "Cocina eléctrica EMaster de dos hornillas."
+  }
+]

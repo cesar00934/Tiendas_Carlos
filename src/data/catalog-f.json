@@ -1,0 +1,320 @@
+[
+  {
+    "index": 429,
+    "name": "Bowl blanco",
+    "category": "Cocina",
+    "price": 10,
+    "variants": [
+      {
+        "label": "Unidad",
+        "price": 10
+      },
+      {
+        "label": "Docena",
+        "price": 105
+      }
+    ]
+  },
+  {
+    "index": 430,
+    "name": "Fuente rectangular blanca",
+    "category": "Cocina",
+    "price": 10
+  },
+  {
+    "index": 431,
+    "name": "Botella dispensadora para salsas",
+    "category": "Cocina",
+    "price": 12
+  },
+  {
+    "index": 432,
+    "name": "Cafetera Record",
+    "category": "Electrodomésticos",
+    "price": 120
+  },
+  {
+    "index": 433,
+    "name": "Extractor de jugo Imaco",
+    "category": "Electrodomésticos",
+    "price": 121
+  },
+  {
+    "index": 434,
+    "name": "Fuente rectangular blanca",
+    "category": "Cocina",
+    "price": 12,
+    "variants": [
+      {
+        "label": "Unidad",
+        "price": 12
+      },
+      {
+        "label": "Docena",
+        "price": 96
+      }
+    ]
+  },
+  {
+    "index": 435,
+    "name": "Termo eléctrico E-Master 6 L",
+    "category": "Electrodomésticos",
+    "price": 130
+  },
+  {
+    "index": 436,
+    "name": "Caja organizadora grande con tapa",
+    "category": "Organización",
+    "price": 150
+  },
+  {
+    "index": 437,
+    "name": "Vasos de vidrio",
+    "category": "Cocina",
+    "price": 15
+  },
+  {
+    "index": 438,
+    "name": "Lámpara LED colgante",
+    "category": "Iluminación",
+    "price": 15
+  },
+  {
+    "index": 439,
+    "name": "Termo bomba 4 L",
+    "category": "Cocina",
+    "price": 170
+  },
+  {
+    "index": 440,
+    "name": "Bowls blancos",
+    "category": "Cocina",
+    "price": 18
+  },
+  {
+    "index": 441,
+    "name": "Platos blancos",
+    "category": "Cocina",
+    "price": 18
+  },
+  {
+    "index": 442,
+    "name": "Parrilla eléctrica RAF",
+    "category": "Electrodomésticos",
+    "price": 180
+  },
+  {
+    "index": 443,
+    "name": "Termo bomba 5 L",
+    "category": "Cocina",
+    "price": 185
+  },
+  {
+    "index": 444,
+    "name": "Espiral antimosquitos Toñito",
+    "category": "Limpieza",
+    "price": 2
+  },
+  {
+    "index": 445,
+    "name": "Bowls plásticos con tapa",
+    "category": "Cocina",
+    "price": 22
+  },
+  {
+    "index": 446,
+    "name": "Set de tetera con tazas",
+    "category": "Cocina",
+    "price": 22
+  },
+  {
+    "index": 447,
+    "name": "Freidora de aire Royal 4.2 L",
+    "category": "Electrodomésticos",
+    "price": 250
+  },
+  {
+    "index": 448,
+    "name": "Bowls blancos",
+    "category": "Cocina",
+    "price": 27
+  },
+  {
+    "index": 449,
+    "name": "Olla multifunción a presión",
+    "category": "Electrodomésticos",
+    "price": 280
+  },
+  {
+    "index": 450,
+    "name": "Olla esmaltada con tapa",
+    "category": "Cocina",
+    "price": 285
+  },
+  {
+    "index": 451,
+    "name": "Recipiente descartable con tapa",
+    "category": "Descartables",
+    "price": 3.5
+  },
+  {
+    "index": 452,
+    "name": "Bowls blancos",
+    "category": "Cocina",
+    "price": 30
+  },
+  {
+    "index": 453,
+    "name": "Moldes acanalados blancos",
+    "category": "Cocina",
+    "price": 30
+  },
+  {
+    "index": 454,
+    "name": "Bandejas rectangulares rosadas",
+    "category": "Cocina",
+    "price": 30
+  },
+  {
+    "index": 455,
+    "name": "Set de recipientes Rey Inglés",
+    "category": "Cocina",
+    "price": 35
+  },
+  {
+    "index": 456,
+    "name": "Tazas blancas",
+    "category": "Cocina",
+    "price": 36
+  },
+  {
+    "index": 457,
+    "name": "Jabonera plástica",
+    "category": "Baño",
+    "price": 2.6,
+    "variants": [
+      {
+        "label": "1 unidad",
+        "price": 2.6
+      },
+      {
+        "label": "4 unidades",
+        "price": 7.5
+      }
+    ]
+  },
+  {
+    "index": 458,
+    "name": "Estante organizador verde",
+    "category": "Organización",
+    "price": 45
+  },
+  {
+    "index": 459,
+    "name": "Fuente ovalada blanca",
+    "category": "Cocina",
+    "price": 48
+  },
+  {
+    "index": 460,
+    "name": "Batidora de pedestal Record",
+    "category": "Electrodomésticos",
+    "price": 480
+  },
+  {
+    "index": 461,
+    "name": "Juego de ollas Salma Record",
+    "category": "Cocina",
+    "price": 580
+  },
+  {
+    "index": 462,
+    "name": "Foco LED",
+    "category": "Iluminación",
+    "price": 6.5
+  },
+  {
+    "index": 463,
+    "name": "Sartén grill cuadrada",
+    "category": "Cocina",
+    "price": 60
+  },
+  {
+    "index": 464,
+    "name": "Licuadora VTM con vaso de vidrio",
+    "category": "Electrodomésticos",
+    "price": 60
+  },
+  {
+    "index": 465,
+    "name": "Cocina eléctrica National Pro",
+    "category": "Electrodomésticos",
+    "price": 62
+  },
+  {
+    "index": 466,
+    "name": "Termo decorado",
+    "category": "Cocina",
+    "price": 65
+  },
+  {
+    "index": 467,
+    "name": "Foco LED",
+    "category": "Iluminación",
+    "price": 7.5
+  },
+  {
+    "index": 468,
+    "name": "Foco LED 40 W",
+    "category": "Iluminación",
+    "price": 7.5
+  },
+  {
+    "index": 469,
+    "name": "Bowl blanco grande",
+    "category": "Cocina",
+    "price": 78
+  },
+  {
+    "index": 470,
+    "name": "Termo grande con taza",
+    "category": "Cocina",
+    "price": 78
+  },
+  {
+    "index": 471,
+    "name": "Olla grande de acero inoxidable",
+    "category": "Cocina",
+    "price": 78
+  },
+  {
+    "index": 472,
+    "name": "Caja organizadora Rey con tapa",
+    "category": "Organización",
+    "price": 83
+  },
+  {
+    "index": 473,
+    "name": "Termo de vidrio con asa",
+    "category": "Cocina",
+    "price": 92
+  },
+  {
+    "index": 474,
+    "name": "Caja conservadora apilable",
+    "category": "Organización",
+    "price": 98
+  },
+  {
+    "index": 475,
+    "name": "Set de tetera y taza de cerámica",
+    "category": "Cocina",
+    "price": 98
+  },
+  {
+    "index": 476,
+    "name": "Set de 2 jarras de vidrio",
+    "category": "Cocina",
+    "price": 18
+  }
+]

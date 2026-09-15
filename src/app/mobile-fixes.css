@@ -1,0 +1,54 @@
+html,
+body {
+  max-width: 100%;
+  overflow-x: clip;
+}
+
+#contenido,
+main,
+.hero,
+.heroCopy,
+.heroSearch,
+.heroActions {
+  min-width: 0;
+}
+
+.heroSearch {
+  width: 100%;
+}
+
+@media (max-width: 620px) {
+  .siteHeader {
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+
+  .brand {
+    min-width: 0;
+    max-width: 145px;
+  }
+
+  .headerWhatsApp {
+    width: 42px;
+    height: 42px;
+    padding: 0;
+    justify-self: end;
+    justify-content: center;
+  }
+
+  .heroCopy {
+    width: 100%;
+  }
+
+  .hero h1 {
+    max-width: 100%;
+    font-size: clamp(2.8rem, 13vw, 3.65rem);
+    overflow-wrap: break-word;
+  }
+
+  .heroCopy > p,
+  .trustRow span,
+  .trustRow small {
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+}

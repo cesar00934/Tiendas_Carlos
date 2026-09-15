@@ -1,0 +1,350 @@
+[
+  {
+    "index": 477,
+    "name": "Bowls plásticos",
+    "category": "Cocina",
+    "price": 1
+  },
+  {
+    "index": 478,
+    "name": "Fuente rectangular blanca",
+    "category": "Cocina",
+    "price": 10,
+    "variants": [
+      {
+        "label": "Unidad",
+        "price": 10
+      },
+      {
+        "label": "Docena",
+        "price": 96
+      }
+    ]
+  },
+  {
+    "index": 479,
+    "name": "Foco LED 50 W",
+    "category": "Iluminación",
+    "price": 10
+  },
+  {
+    "index": 480,
+    "name": "Cacerola de acero inoxidable",
+    "category": "Cocina",
+    "price": 105
+  },
+  {
+    "index": 481,
+    "name": "Olla arrocera con vaporera",
+    "category": "Electrodomésticos",
+    "price": 130
+  },
+  {
+    "index": 482,
+    "name": "Bowl blanco",
+    "category": "Cocina",
+    "price": 14,
+    "variants": [
+      {
+        "label": "Unidad",
+        "price": 14
+      },
+      {
+        "label": "Por docena (c/u)",
+        "price": 11.5
+      }
+    ]
+  },
+  {
+    "index": 483,
+    "name": "Bolsas de regalo estampadas",
+    "category": "Organización",
+    "price": 14
+  },
+  {
+    "index": 484,
+    "name": "Lámpara LED de techo 50 W",
+    "category": "Iluminación",
+    "price": 14
+  },
+  {
+    "index": 485,
+    "name": "Plato hondo blanco",
+    "category": "Cocina",
+    "price": 15
+  },
+  {
+    "index": 486,
+    "name": "Olla eléctrica multiuso",
+    "category": "Electrodomésticos",
+    "price": 158
+  },
+  {
+    "index": 487,
+    "name": "Fuente dividida blanca",
+    "category": "Cocina",
+    "price": 16
+  },
+  {
+    "index": 488,
+    "name": "Vaso de licuadora con cuchilla",
+    "category": "Cocina",
+    "price": 165
+  },
+  {
+    "index": 489,
+    "name": "Licuadora Thomas",
+    "category": "Electrodomésticos",
+    "price": 165
+  },
+  {
+    "index": 490,
+    "name": "Bowls blancos",
+    "category": "Cocina",
+    "price": 17
+  },
+  {
+    "index": 491,
+    "name": "Fuente ovalada blanca",
+    "category": "Cocina",
+    "price": 17,
+    "variants": [
+      {
+        "label": "Unidad",
+        "price": 17
+      },
+      {
+        "label": "Por docena (c/u)",
+        "price": 15
+      }
+    ]
+  },
+  {
+    "index": 492,
+    "name": "Foco LED 60 W",
+    "category": "Iluminación",
+    "price": 17.5
+  },
+  {
+    "index": 493,
+    "name": "Fuente ondulada blanca",
+    "category": "Cocina",
+    "price": 18,
+    "variants": [
+      {
+        "label": "Unidad",
+        "price": 18
+      },
+      {
+        "label": "Docena",
+        "price": 190
+      }
+    ]
+  },
+  {
+    "index": 494,
+    "name": "Fuente dividida de 4 espacios",
+    "category": "Cocina",
+    "price": 18,
+    "variants": [
+      {
+        "label": "Unidad",
+        "price": 18
+      },
+      {
+        "label": "Por docena (c/u)",
+        "price": 15
+      }
+    ]
+  },
+  {
+    "index": 495,
+    "name": "Licuadora Oster",
+    "category": "Electrodomésticos",
+    "price": 189
+  },
+  {
+    "index": 496,
+    "name": "Bandeja plástica rosada",
+    "category": "Cocina",
+    "price": 2
+  },
+  {
+    "index": 497,
+    "name": "Papelera plástica",
+    "category": "Limpieza",
+    "price": 20
+  },
+  {
+    "index": 498,
+    "name": "Caja organizadora roja con tapa",
+    "category": "Organización",
+    "price": 20
+  },
+  {
+    "index": 499,
+    "name": "Bowls blancos",
+    "category": "Cocina",
+    "price": 21,
+    "variants": [
+      {
+        "label": "Unidad",
+        "price": 21
+      },
+      {
+        "label": "Docena",
+        "price": 220
+      }
+    ]
+  },
+  {
+    "index": 500,
+    "name": "Balde de 20 L con tapa",
+    "category": "Limpieza",
+    "price": 23
+  },
+  {
+    "index": 501,
+    "name": "Horno eléctrico Record 8.5 L",
+    "category": "Electrodomésticos",
+    "price": 230
+  },
+  {
+    "index": 502,
+    "name": "Extractor de jugo Turbo Power",
+    "category": "Electrodomésticos",
+    "price": 260
+  },
+  {
+    "index": 503,
+    "name": "Extractor de jugo Oster",
+    "category": "Electrodomésticos",
+    "price": 295
+  },
+  {
+    "index": 504,
+    "name": "Triturador eléctrico de hielo",
+    "category": "Electrodomésticos",
+    "price": 295
+  },
+  {
+    "index": 505,
+    "name": "Portaservilletas de mesa",
+    "category": "Organización",
+    "price": 30
+  },
+  {
+    "index": 506,
+    "name": "Olla arrocera Chimitsu 4.2 L",
+    "category": "Electrodomésticos",
+    "price": 320
+  },
+  {
+    "index": 507,
+    "name": "Limpiador líquido Eficaz",
+    "category": "Limpieza",
+    "price": 4
+  },
+  {
+    "index": 508,
+    "name": "Tacho plástico con tapa",
+    "category": "Limpieza",
+    "price": 42
+  },
+  {
+    "index": 509,
+    "name": "Estante organizador rojo de 3 niveles",
+    "category": "Organización",
+    "price": 45
+  },
+  {
+    "index": 510,
+    "name": "Estante organizador gris de 3 niveles",
+    "category": "Organización",
+    "price": 48
+  },
+  {
+    "index": 511,
+    "name": "Tacho plástico Rey con tapa",
+    "category": "Limpieza",
+    "price": 49
+  },
+  {
+    "index": 512,
+    "name": "Lavavajilla líquido Eficaz",
+    "category": "Limpieza",
+    "price": 5
+  },
+  {
+    "index": 513,
+    "name": "Platos blancos",
+    "category": "Cocina",
+    "price": 57
+  },
+  {
+    "index": 514,
+    "name": "Set de 6 vasos de vidrio",
+    "category": "Cocina",
+    "price": 21
+  },
+  {
+    "index": 515,
+    "name": "Cocina eléctrica National Pro",
+    "category": "Electrodomésticos",
+    "price": 62
+  },
+  {
+    "index": 516,
+    "name": "Secador de manos automático",
+    "category": "Electrodomésticos",
+    "price": 62
+  },
+  {
+    "index": 517,
+    "name": "Bolsas plásticas para alimentos",
+    "category": "Organización",
+    "price": 68
+  },
+  {
+    "index": 518,
+    "name": "Tacho para reciclaje de vidrio",
+    "category": "Limpieza",
+    "price": 68
+  },
+  {
+    "index": 519,
+    "name": "Cocina eléctrica E-Master",
+    "category": "Electrodomésticos",
+    "price": 68
+  },
+  {
+    "index": 520,
+    "name": "Batidora de mano Electro Master con bowl",
+    "category": "Electrodomésticos",
+    "price": 68
+  },
+  {
+    "index": 521,
+    "name": "Set de salero y pimentero",
+    "category": "Cocina",
+    "price": 7
+  },
+  {
+    "index": 522,
+    "name": "Set de colgadores de madera",
+    "category": "Organización",
+    "price": 72
+  },
+  {
+    "index": 523,
+    "name": "Olla arrocera Solier",
+    "category": "Electrodomésticos",
+    "price": 89
+  },
+  {
+    "index": 524,
+    "name": "Caja organizadora Rey con tapa",
+    "category": "Organización",
+    "price": 98
+  }
+]

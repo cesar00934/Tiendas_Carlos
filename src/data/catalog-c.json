@@ -1,0 +1,466 @@
+[
+  {
+    "index": 107,
+    "sourceFile": "48.jpg",
+    "name": "Set de cuchillos con soporte",
+    "category": "Cocina",
+    "price": 48,
+    "description": "Set de 6 piezas con soporte azul de diseño infantil."
+  },
+  {
+    "index": 108,
+    "sourceFile": "483.jpg",
+    "name": "Cocina a gas con horno",
+    "category": "Electrodomésticos",
+    "price": 483,
+    "description": "Cocina de 4 hornillas con horno y tapa de vidrio."
+  },
+  {
+    "index": 109,
+    "sourceFile": "495.jpg",
+    "name": "Juego de ollas Valeska",
+    "category": "Cocina",
+    "price": 495,
+    "description": "Juego de ollas de acero inoxidable con tapas de vidrio."
+  },
+  {
+    "index": 110,
+    "sourceFile": "4l a 55 soles y 65soles de 5l.jpg",
+    "name": "Tetera Rosmania con silbato",
+    "category": "Cocina",
+    "price": 55,
+    "variants": [
+      {
+        "label": "4 L",
+        "price": 55
+      },
+      {
+        "label": "5 L",
+        "price": 65
+      }
+    ],
+    "description": "Tetera de acero inoxidable con asa de apariencia madera."
+  },
+  {
+    "index": 111,
+    "sourceFile": "5.jpg",
+    "name": "Portarrollos Reyplast De Luxe",
+    "category": "Baño",
+    "price": 5,
+    "description": "Portarrollos de papel higiénico de formato cuadrado."
+  },
+  {
+    "index": 112,
+    "sourceFile": "55 de 1.5 m y 65 de 2m .jpg",
+    "name": "Alfombra rectangular",
+    "category": "Decoración",
+    "price": 55,
+    "variants": [
+      {
+        "label": "1.5 m",
+        "price": 55
+      },
+      {
+        "label": "2 m",
+        "price": 65
+      }
+    ],
+    "description": "Alfombra estampada rectangular disponible en dos medidas."
+  },
+  {
+    "index": 113,
+    "sourceFile": "55.jpg",
+    "name": "Cobertor acolchado estampado",
+    "category": "Dormitorio",
+    "price": 55,
+    "description": "Cobertor acolchado con diseño de cuadros verdes y grises."
+  },
+  {
+    "index": 114,
+    "sourceFile": "58.jpg",
+    "name": "Caja conservadora Basa N.° 9",
+    "category": "Organización",
+    "price": 58,
+    "description": "Caja plástica con tapa y capacidad de 25 L."
+  },
+  {
+    "index": 115,
+    "sourceFile": "580.jpg",
+    "name": "Juego de ollas antiadherentes Rosmania",
+    "category": "Cocina",
+    "price": 580,
+    "description": "Juego de cocina rosa con asas de apariencia madera."
+  },
+  {
+    "index": 116,
+    "sourceFile": "5l a 90 soles.jpg",
+    "name": "Tetera de acero inoxidable con silbato",
+    "category": "Cocina",
+    "price": 90,
+    "description": "Tetera con capacidad de 5 L."
+  },
+  {
+    "index": 117,
+    "sourceFile": "6.000.jpg",
+    "name": "Táper rectangular Trilabs",
+    "category": "Cocina",
+    "price": 6,
+    "description": "Recipiente rectangular con tapa y capacidad de 3 L."
+  },
+  {
+    "index": 118,
+    "sourceFile": "6.0000000.jpg",
+    "name": "Cojín acolchado para silla",
+    "category": "Decoración",
+    "price": 6,
+    "description": "Cojín cuadrado con estampado floral."
+  },
+  {
+    "index": 119,
+    "sourceFile": "6.5.jpg",
+    "name": "Ablandador manual de carne",
+    "category": "Cocina",
+    "price": 6.5,
+    "description": "Utensilio plástico de mango largo disponible en varios colores."
+  },
+  {
+    "index": 120,
+    "sourceFile": "6.jpg",
+    "name": "Cojín acolchado para silla",
+    "category": "Decoración",
+    "price": 6,
+    "description": "Cojín cuadrado celeste con estampado."
+  },
+  {
+    "index": 121,
+    "sourceFile": "60.00.jpg",
+    "name": "Despensero rattan de 4 niveles",
+    "category": "Organización",
+    "price": 60,
+    "description": "Organizador plástico de cuatro niveles con ruedas."
+  },
+  {
+    "index": 122,
+    "sourceFile": "60.jpg",
+    "name": "Silla Tiffany de plástico",
+    "category": "Muebles",
+    "price": 60,
+    "description": "Silla Tiffany de color blanco."
+  },
+  {
+    "index": 123,
+    "sourceFile": "65.0.jpg",
+    "name": "Cobertor de verano Sanhe Textil",
+    "category": "Dormitorio",
+    "price": 65,
+    "description": "Cobertor ligero acolchado con diseño estampado."
+  },
+  {
+    "index": 124,
+    "sourceFile": "65.00.jpg",
+    "name": "Frazada afelpada Cosmos",
+    "category": "Dormitorio",
+    "price": 65,
+    "description": "Frazada estampada presentada en bolsa con asa."
+  },
+  {
+    "index": 125,
+    "sourceFile": "65.000.jpg",
+    "name": "Zapatera plástica Bambú",
+    "category": "Organización",
+    "price": 65,
+    "description": "Zapatera negra de cuatro niveles."
+  },
+  {
+    "index": 126,
+    "sourceFile": "65.0000.jpg",
+    "name": "Sartén antiadherente Luce Life",
+    "category": "Cocina",
+    "price": 65,
+    "description": "Sartén de 24 cm con acabado tipo granito."
+  },
+  {
+    "index": 127,
+    "sourceFile": "65.jpg",
+    "name": "Silla plástica con asiento acolchado",
+    "category": "Muebles",
+    "price": 65,
+    "description": "Silla blanca con asiento acolchado celeste."
+  },
+  {
+    "index": 128,
+    "sourceFile": "670.jpg",
+    "name": "Juego de ollas antiadherentes tipo granito",
+    "category": "Cocina",
+    "price": 670,
+    "description": "Juego negro moteado con ollas, tapas, sartén y tetera."
+  },
+  {
+    "index": 129,
+    "sourceFile": "695.jpg",
+    "name": "Refrigeradora Electrolux de dos puertas",
+    "category": "Electrodomésticos",
+    "price": 695,
+    "description": "Refrigeradora con compartimento congelador superior."
+  },
+  {
+    "index": 130,
+    "sourceFile": "7.5.jpg",
+    "name": "Jarra Reyplast Bonita",
+    "category": "Cocina",
+    "price": 7.5,
+    "description": "Jarra con tapa y capacidad de 2.5 L."
+  },
+  {
+    "index": 131,
+    "sourceFile": "7.jpg",
+    "name": "Colador multiuso Reyplast N.° 02",
+    "category": "Cocina",
+    "price": 7,
+    "description": "Colador plástico redondo de tamaño N.° 02."
+  },
+  {
+    "index": 132,
+    "sourceFile": "75.jpg",
+    "name": "Tetera Royal con silbato",
+    "category": "Cocina",
+    "price": 75,
+    "description": "Tetera modelo RY-KT50 con capacidad de 5 L."
+  },
+  {
+    "index": 133,
+    "sourceFile": "78 soles de 5l.jpg",
+    "name": "Tetera Rosmania con silbato",
+    "category": "Cocina",
+    "price": 78,
+    "description": "Tetera modelo RC-2205 con capacidad de 5 L."
+  },
+  {
+    "index": 134,
+    "sourceFile": "8.000.jpg",
+    "name": "Colador multiuso Reyplast N.° 03",
+    "category": "Cocina",
+    "price": 8,
+    "description": "Colador plástico redondo de tamaño N.° 03."
+  },
+  {
+    "index": 135,
+    "sourceFile": "8.jpg",
+    "name": "Prensapapas manual Clico",
+    "category": "Cocina",
+    "price": 8,
+    "description": "Prensapapas plástico disponible en varios colores."
+  },
+  {
+    "index": 136,
+    "sourceFile": "84.jpg",
+    "name": "Tetera Valeska con silbato",
+    "category": "Cocina",
+    "price": 84,
+    "description": "Tetera roja con acabado tipo granito y capacidad de 5 L."
+  },
+  {
+    "index": 137,
+    "sourceFile": "85.jpg",
+    "name": "Tetera HausRoland con silbato",
+    "category": "Cocina",
+    "price": 85,
+    "description": "Tetera negra con acabado tipo granito y capacidad de 4.5 L."
+  },
+  {
+    "index": 138,
+    "sourceFile": "9.jpg",
+    "name": "Dulcera Reyplast con tapa",
+    "category": "Cocina",
+    "price": 9,
+    "description": "Recipiente transparente con acabado facetado y tapa."
+  },
+  {
+    "index": 139,
+    "sourceFile": "Coberotr 2 plazas 28 soles.jpg",
+    "name": "Cobertor afelpado estampado",
+    "category": "Dormitorio",
+    "price": 28,
+    "description": "Cobertor de 2 plazas disponible en diseños surtidos."
+  },
+  {
+    "index": 140,
+    "sourceFile": "Cobertor  a 90 soles plaza y media.jpg",
+    "name": "Cobertor Premium Casa Mundo",
+    "category": "Dormitorio",
+    "price": 90,
+    "description": "Cobertor para cama de plaza y media."
+  },
+  {
+    "index": 141,
+    "sourceFile": "Cobertor 2plazas 100soles.jpg",
+    "name": "Cobertor de invierno premium",
+    "category": "Dormitorio",
+    "price": 100,
+    "description": "Cobertor estampado para cama de 2 plazas."
+  },
+  {
+    "index": 142,
+    "sourceFile": "Cobertor2plazas a 28.0.jpg",
+    "name": "Cobertor acolchado de estrellas",
+    "category": "Dormitorio",
+    "price": 28,
+    "description": "Cobertor azul estampado para cama de 2 plazas."
+  },
+  {
+    "index": 143,
+    "sourceFile": "Cobertores color entero30soles 2plazas.jpg",
+    "name": "Cobertor liso afelpado",
+    "category": "Dormitorio",
+    "price": 30,
+    "description": "Cobertor de 2 plazas disponible en colores enteros surtidos."
+  },
+  {
+    "index": 144,
+    "sourceFile": "Colcha calamina2 plazas 18soles.jpg",
+    "name": "Colcha calamina",
+    "category": "Dormitorio",
+    "price": 18,
+    "description": "Colcha acanalada de 2 plazas disponible en varios colores."
+  },
+  {
+    "index": 145,
+    "sourceFile": "Colcha peluchon17.jpg",
+    "name": "Colcha peluchón estampada",
+    "category": "Dormitorio",
+    "price": 17,
+    "description": "Colcha suave disponible en diseños y colores surtidos."
+  },
+  {
+    "index": 146,
+    "sourceFile": "Colcha piel de conejo 18 soles.jpg",
+    "name": "Colcha tipo piel de conejo",
+    "category": "Dormitorio",
+    "price": 18,
+    "description": "Colcha afelpada de pelo largo disponible en colores surtidos."
+  },
+  {
+    "index": 147,
+    "sourceFile": "Colcha piel de durazno17soles.jpg",
+    "name": "Colcha tipo piel de durazno",
+    "category": "Dormitorio",
+    "price": 17,
+    "description": "Colcha suave disponible en diseños estampados."
+  },
+  {
+    "index": 148,
+    "sourceFile": "Edredon2plazas55soles.jpg",
+    "name": "Edredón estampado",
+    "category": "Dormitorio",
+    "price": 55,
+    "description": "Edredón acolchado para cama de 2 plazas."
+  },
+  {
+    "index": 149,
+    "sourceFile": "Forrodecolchoninpermiable 1.5pla 65so,2pl75,3pl85.jpg",
+    "name": "Cubrecolchón impermeable Matador Torero",
+    "category": "Dormitorio",
+    "price": 65,
+    "variants": [
+      {
+        "label": "1.5 plazas",
+        "price": 65
+      },
+      {
+        "label": "2 plazas",
+        "price": 75
+      },
+      {
+        "label": "3 plazas",
+        "price": 85
+      }
+    ],
+    "description": "Protector impermeable y antiácaros presentado en paquete de 2 piezas."
+  },
+  {
+    "index": 150,
+    "sourceFile": "Frazada 6 kilos a 95soles.jpg",
+    "name": "Frazada Americano de 6 kg",
+    "category": "Dormitorio",
+    "price": 95,
+    "description": "Frazada gruesa con diseño geométrico azul."
+  },
+  {
+    "index": 151,
+    "sourceFile": "Frazada 6 kilos95soles.jpg",
+    "name": "Frazada Americano de 6 kg",
+    "category": "Dormitorio",
+    "price": 95,
+    "description": "Frazada gruesa con diseño de animal."
+  },
+  {
+    "index": 152,
+    "sourceFile": "Frazada polatr 65 soles 2 plazas.jpg",
+    "name": "Frazada polar Cosmos",
+    "category": "Dormitorio",
+    "price": 65,
+    "description": "Frazada polar estampada para cama de 2 plazas."
+  },
+  {
+    "index": 153,
+    "sourceFile": "Juego cobertor 3 plazas 170 de 7 piezas.jpg",
+    "name": "Juego de cobertor de 7 piezas",
+    "category": "Dormitorio",
+    "price": 170,
+    "description": "Juego de cama de 7 piezas para cama de 3 plazas."
+  },
+  {
+    "index": 154,
+    "sourceFile": "Juego de cobertor 3piezas 65soles.jpg",
+    "name": "Juego de cobertor afelpado",
+    "category": "Dormitorio",
+    "price": 65,
+    "description": "Juego de cobertor de 3 piezas presentado en bolsa."
+  },
+  {
+    "index": 155,
+    "sourceFile": "Numero 12 a 8soles.jpg",
+    "name": "Tina cuadrada Reyplast N.° 12",
+    "category": "Baño",
+    "price": 8,
+    "description": "Tina plástica cuadrada disponible en colores surtidos."
+  },
+  {
+    "index": 156,
+    "sourceFile": "Nunero 20 a 9 soles.jpg",
+    "name": "Tina cuadrada Reyplast N.° 20",
+    "category": "Baño",
+    "price": 9,
+    "description": "Tina plástica cuadrada disponible en colores surtidos."
+  },
+  {
+    "index": 157,
+    "sourceFile": "Portacubierto basa 35soles.jpg",
+    "name": "Portacubiertos Basa con tapa",
+    "category": "Cocina",
+    "price": 35,
+    "description": "Organizador rectangular con varios compartimentos y tapa transparente."
+  },
+  {
+    "index": 158,
+    "sourceFile": "Sabana 1.5 plaz 75; 2 pla 85 y 2.5pla a 95soles.jpg",
+    "name": "Juego de sábanas Casatex Premier",
+    "category": "Dormitorio",
+    "price": 75,
+    "variants": [
+      {
+        "label": "1.5 plazas",
+        "price": 75
+      },
+      {
+        "label": "2 plazas",
+        "price": 85
+      },
+      {
+        "label": "2.5 plazas",
+        "price": 95
+      }
+    ],
+    "description": "Juego de sábanas disponible en tres tamaños."
+  }
+]
