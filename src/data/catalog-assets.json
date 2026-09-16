@@ -1722,9 +1722,9 @@
     "cardImage": "/catalog/producto-0158-card.webp",
     "largeImage": "/catalog/producto-0158-large.webp",
     "cardWidth": 900,
-    "cardHeight": 506,
+    "cardHeight": 706,
     "largeWidth": 1800,
-    "largeHeight": 1013
+    "largeHeight": 1411
   },
   {
     "id": "tc-0159",
@@ -3709,12 +3709,12 @@
   {
     "id": "tc-0339",
     "index": 339,
-    "sourceFile": "65.00.jpg",
+    "sourceFile": "D_NQ_NP_743412-MPE104690021035_012026-O.webp",
     "cardImage": "/catalog/producto-0339-card.webp",
     "largeImage": "/catalog/producto-0339-large.webp",
-    "cardWidth": 446,
+    "cardWidth": 839,
     "cardHeight": 900,
-    "largeWidth": 893,
+    "largeWidth": 1678,
     "largeHeight": 1800
   },
   {
