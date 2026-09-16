@@ -1,4 +1,4 @@
-const defaultSiteUrl = "https://tiendascarlos-git-main-carlos-9c09.vercel.app";
+const defaultSiteUrl = "https://tiendascarlos.vercel.app";
 
 function getSiteUrl() {
   const configuredUrl = process.env.NEXT_PUBLIC_SITE_URL?.trim();
