@@ -6279,5 +6279,104 @@
     "cardHeight": 459,
     "largeWidth": 1800,
     "largeHeight": 918
+  },
+  {
+    "id": "tc-0573",
+    "index": 573,
+    "sourceFile": "10.jpeg",
+    "cardImage": "/catalog/producto-0573-card.webp",
+    "largeImage": "/catalog/producto-0573-large.webp",
+    "cardWidth": 900,
+    "cardHeight": 506,
+    "largeWidth": 1800,
+    "largeHeight": 1012
+  },
+  {
+    "id": "tc-0574",
+    "index": 574,
+    "sourceFile": "13.5.jpeg",
+    "cardImage": "/catalog/producto-0574-card.webp",
+    "largeImage": "/catalog/producto-0574-large.webp",
+    "cardWidth": 867,
+    "cardHeight": 900,
+    "largeWidth": 1734,
+    "largeHeight": 1800
+  },
+  {
+    "id": "tc-0575",
+    "index": 575,
+    "sourceFile": "25.jpeg",
+    "cardImage": "/catalog/producto-0575-card.webp",
+    "largeImage": "/catalog/producto-0575-large.webp",
+    "cardWidth": 506,
+    "cardHeight": 900,
+    "largeWidth": 1012,
+    "largeHeight": 1800
+  },
+  {
+    "id": "tc-0576",
+    "index": 576,
+    "sourceFile": "5.5 soles.jpeg",
+    "cardImage": "/catalog/producto-0576-card.webp",
+    "largeImage": "/catalog/producto-0576-large.webp",
+    "cardWidth": 900,
+    "cardHeight": 506,
+    "largeWidth": 1800,
+    "largeHeight": 1012
+  },
+  {
+    "id": "tc-0577",
+    "index": 577,
+    "sourceFile": "5.5 solesss.jpeg",
+    "cardImage": "/catalog/producto-0577-card.webp",
+    "largeImage": "/catalog/producto-0577-large.webp",
+    "cardWidth": 506,
+    "cardHeight": 900,
+    "largeWidth": 1012,
+    "largeHeight": 1800
+  },
+  {
+    "id": "tc-0578",
+    "index": 578,
+    "sourceFile": "5.5.jpeg",
+    "cardImage": "/catalog/producto-0578-card.webp",
+    "largeImage": "/catalog/producto-0578-large.webp",
+    "cardWidth": 900,
+    "cardHeight": 506,
+    "largeWidth": 1800,
+    "largeHeight": 1012
+  },
+  {
+    "id": "tc-0579",
+    "index": 579,
+    "sourceFile": "5.jpg",
+    "cardImage": "/catalog/producto-0579-card.webp",
+    "largeImage": "/catalog/producto-0579-large.webp",
+    "cardWidth": 672,
+    "cardHeight": 900,
+    "largeWidth": 1344,
+    "largeHeight": 1800
+  },
+  {
+    "id": "tc-0580",
+    "index": 580,
+    "sourceFile": "caja dispensadora de pañuelos a 5 soles.jpeg",
+    "cardImage": "/catalog/producto-0580-card.webp",
+    "largeImage": "/catalog/producto-0580-large.webp",
+    "cardWidth": 506,
+    "cardHeight": 900,
+    "largeWidth": 1012,
+    "largeHeight": 1800
+  },
+  {
+    "id": "tc-0581",
+    "index": 581,
+    "sourceFile": "hervidor electrico 18 soles.jpeg",
+    "cardImage": "/catalog/producto-0581-card.webp",
+    "largeImage": "/catalog/producto-0581-large.webp",
+    "cardWidth": 506,
+    "cardHeight": 900,
+    "largeWidth": 1012,
+    "largeHeight": 1800
   }
 ]

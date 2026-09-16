@@ -412,5 +412,77 @@
     "category": "Electrodomésticos",
     "price": 99,
     "description": "Cocina eléctrica EMaster de dos hornillas."
+  },
+  {
+    "index": 573,
+    "sourceFile": "10.jpeg",
+    "name": "Canasta ovalada de mimbre",
+    "category": "Organización",
+    "price": 10,
+    "description": "Canasta ovalada de mimbre para organización."
+  },
+  {
+    "index": 574,
+    "sourceFile": "13.5.jpeg",
+    "name": "Paño absorbente Virutex",
+    "category": "Limpieza",
+    "price": 13.5,
+    "description": "Paño absorbente Virutex para la limpieza del hogar."
+  },
+  {
+    "index": 575,
+    "sourceFile": "25.jpeg",
+    "name": "Florero con flores artificiales",
+    "category": "Decoración",
+    "price": 25,
+    "description": "Florero decorativo con flores artificiales."
+  },
+  {
+    "index": 576,
+    "sourceFile": "5.5 soles.jpeg",
+    "name": "Canasta de mimbre con asa",
+    "category": "Organización",
+    "price": 5.5,
+    "description": "Canasta de mimbre con asa para organización."
+  },
+  {
+    "index": 577,
+    "sourceFile": "5.5 solesss.jpeg",
+    "name": "Organizador rectangular de mimbre",
+    "category": "Organización",
+    "price": 5.5,
+    "description": "Organizador rectangular de mimbre."
+  },
+  {
+    "index": 578,
+    "sourceFile": "5.5.jpeg",
+    "name": "Bandeja ovalada de mimbre",
+    "category": "Organización",
+    "price": 5.5,
+    "description": "Bandeja ovalada de mimbre."
+  },
+  {
+    "index": 579,
+    "sourceFile": "5.jpg",
+    "name": "Encendedor eléctrico USB",
+    "category": "Cocina",
+    "price": 5,
+    "description": "Encendedor eléctrico USB recargable."
+  },
+  {
+    "index": 580,
+    "sourceFile": "caja dispensadora de pañuelos a 5 soles.jpeg",
+    "name": "Caja dispensadora de pañuelos",
+    "category": "Organización",
+    "price": 5,
+    "description": "Caja dispensadora para pañuelos."
+  },
+  {
+    "index": 581,
+    "sourceFile": "hervidor electrico 18 soles.jpeg",
+    "name": "Hervidor eléctrico",
+    "category": "Electrodomésticos",
+    "price": 18,
+    "description": "Hervidor eléctrico para el hogar."
   }
 ]
